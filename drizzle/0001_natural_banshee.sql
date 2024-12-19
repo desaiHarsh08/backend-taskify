@@ -1,0 +1,26 @@
+DROP TABLE "activity_logs" CASCADE;--> statement-breakpoint
+DROP TABLE "col_table_instances" CASCADE;--> statement-breakpoint
+DROP TABLE "column_instances" CASCADE;--> statement-breakpoint
+DROP TABLE "column_metadata_templates" CASCADE;--> statement-breakpoint
+DROP TABLE "column_templates" CASCADE;--> statement-breakpoint
+DROP TABLE "column_variant_instances" CASCADE;--> statement-breakpoint
+DROP TABLE "column_variant_templates" CASCADE;--> statement-breakpoint
+DROP TABLE "customers" CASCADE;--> statement-breakpoint
+DROP TABLE "departments" CASCADE;--> statement-breakpoint
+DROP TABLE "departments_roles" CASCADE;--> statement-breakpoint
+DROP TABLE "dropdown_templates" CASCADE;--> statement-breakpoint
+DROP TABLE "field_instances" CASCADE;--> statement-breakpoint
+DROP TABLE "field_templates" CASCADE;--> statement-breakpoint
+DROP TABLE "field_templates_column_templates" CASCADE;--> statement-breakpoint
+DROP TABLE "function_instances" CASCADE;--> statement-breakpoint
+DROP TABLE "function_templates" CASCADE;--> statement-breakpoint
+DROP TABLE "function_templates_field_templates" CASCADE;--> statement-breakpoint
+DROP TABLE "next_follow_up_column_templates" CASCADE;--> statement-breakpoint
+DROP TABLE "parent_companies" CASCADE;--> statement-breakpoint
+DROP TABLE "refresh_tokens" CASCADE;--> statement-breakpoint
+DROP TABLE "roles" CASCADE;--> statement-breakpoint
+DROP TABLE "row_table_instances" CASCADE;--> statement-breakpoint
+DROP TABLE "task_instances" CASCADE;--> statement-breakpoint
+DROP TABLE "task_templates" CASCADE;--> statement-breakpoint
+DROP TABLE "task_templates_function_templates" CASCADE;--> statement-breakpoint
+DROP TABLE "users" CASCADE;
